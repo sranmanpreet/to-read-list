@@ -1,2 +1,3 @@
 # A list of cool content I stumbled upon during my learning journey
 
+1. How to implement an infinite scroll on a webpage?
