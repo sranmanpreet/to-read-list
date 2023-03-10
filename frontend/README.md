@@ -5,3 +5,4 @@
 - [NgRx](https://ngrx.io/docs)
 - [Nx](https://nx.dev/getting-started/intro)
 - [Webpack](https://webpack.js.org/guides/getting-started)
+- [Create Netlify Homepage Clone](https://www.netlify.com/)
