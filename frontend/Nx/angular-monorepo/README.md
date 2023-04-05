@@ -5,3 +5,8 @@
 
 ## Bring Up Development Server
 - npx nx run _app-name_:serve
+
+
+
+# Articles
+- https://dev.to/this-is-learning/story-of-a-developer-who-regretted-not-choosing-monorepo-and-nx-mni
